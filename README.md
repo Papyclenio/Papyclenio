@@ -23,5 +23,5 @@ Apaixonado por desenvolvimento web e tecnologia.
 - Localização: Luanda, Angola 🇦🇴
 
 ## 🌐 Redes sociais
-- facebook: Papyclenio Eduardo Pedro
-- tiktok: papyclenio_dev
+- facebook: [Papyclenio Eduardo Pedro](https://www.facebook.com/papyclenioeduardo.pedro)
+- tiktok: [Papyclenio E. Pedro | Dev](https://www.tiktok.com/@papyclenio_dev)
