@@ -14,7 +14,8 @@ Apaixonado por desenvolvimento web e tecnologia.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Papyclenio&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Papyclenio&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Streak](https://streak-stats.demolab.com?user=Papyclenio&theme=dark&hide_border=true)
 
 ## 📫 Contacto
 - Email: kandaeduardopedro395@gmail.com
